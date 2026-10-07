@@ -5,7 +5,7 @@
 📍 India &nbsp;|&nbsp; 📧 nandakumar.0413@gmail.com &nbsp;|&nbsp; 📞 +91 97513 87087
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/nandakumar-arumugam-12456b78)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/nanda13kumar)
-[![Portfolio](https://img.shields.io/badge/Portfolio-nanda13kumar.github.io-blue?style=for-the-badge&logo=githubpages&logoColor=white)](https://nanda13kumar.github.io/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-0A66C2?style=flat&logo=githubpages&logoColor=white)](https://nanda13kumar.github.io/)
 
 ---
 
