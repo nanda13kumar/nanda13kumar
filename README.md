@@ -2,7 +2,8 @@
 
 **Engineering Manager | Platform Engineering & AI Infrastructure | Cloud Infrastructure | Global Team Leadership**
 
-📍 India &nbsp;|&nbsp; 📧 nandakumar.0413@gmail.com &nbsp;|&nbsp;
+📍 India &nbsp;
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:nandakumar.0413@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/nandakumar-arumugam-12456b78)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/nanda13kumar)
 [![Portfolio](https://img.shields.io/badge/Portfolio-0A66C2?style=flat&logo=githubpages&logoColor=white)](https://nanda13kumar.github.io/)
